@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: o;
+    padding: 0;
+}
+header li{
+    display: inline;
+}
+.conteiner {
+    width: 1366px;
+    margin: 0 auto;
+}
+.articles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.articles article img {
+    height: 180px;
+}
+.articles article {
+    width: 30%;
+}
+.texto{
+    color: brown;
+}
+.titulo{
+    color: blue;
+}
